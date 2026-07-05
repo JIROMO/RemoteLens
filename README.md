@@ -1,5 +1,7 @@
 # RemoteLens
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 RemoteLens is a small macOS menu bar app that makes a Mac easier to control from a phone over remote desktop tools such as Chrome Remote Desktop.
 
 It switches the display into a phone-friendly layout, so text and UI controls are larger and easier to tap on a small screen. Everything runs locally on your Mac. RemoteLens does not use network access, telemetry, or external services.
