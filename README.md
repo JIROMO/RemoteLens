@@ -90,4 +90,4 @@ build.sh               Build, bundle, sign, and install script
 
 ## License
 
-No license has been added yet.
+MIT License. See [LICENSE](LICENSE) for details.
